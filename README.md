@@ -2,7 +2,7 @@
 
 A mern-stack file transfer demo web application.
 
-Libraries Used:
+Used Technologies:
 - `React`
 - `Express`
 - `express-fileupload`
